@@ -1,4 +1,4 @@
-Great decision 👍 — OpenStack is very powerful, especially for someone like you who already works in Linux, storage, automation, and infrastructure.
+OpenStack is very powerful, especially for someone like you who already works in Linux, storage, automation, and infrastructure.
 
 Since you’re strong in Linux admin and exploring CephFS + large infra setups, OpenStack will connect very naturally with your background.
 
@@ -267,10 +267,3 @@ If you want, next I can explain:
 	•	✅ Comparison with Kubernetes
 	•	✅ OpenStack for AI / GPU workloads
 
-Tell me your goal:
-👉 Learning for job?
-👉 Building private cloud?
-👉 For your AI infra idea?
-👉 For ARM production infra use case?
-
-I’ll guide you step-by-step based on that.
